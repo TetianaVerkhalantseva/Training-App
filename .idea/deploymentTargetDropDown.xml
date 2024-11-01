@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainScreenUITest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="checkButtonIsEnabled()">
+        <State />
+      </entry>
+      <entry key="checkIsNumberOfCompletedExercisesAndNumberOfCompletedSets()">
+        <State />
+      </entry>
+      <entry key="checkIsTotalNumberOfExercisesAndSets()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
