@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oblig2_Verkhalantseva</string>
+    <string name="top_bar">Min trening</string>
+    <string name="strength_button">Styrke</string>
+    <string name="endurance_button">Utholdenhet</string>
+    <string name="number_of_exercises">Totalt antall øvelser og sett: %1$d og %2$d</string>
+    <string name="complete_exercises">Antall komplette øvelser: %1$d</string>
+    <string name="complete_sets">Antall komplette sett (for alle øvelser): %1$d</string>
+    <string name="rep_placeholder">Sett %1$d utfort</string>
+    <string name="benkpress">Benkpress</string>
+    <string name="benkpress_discription">Kjør gitt antall sett med 10 repetisjoner, med økende belastning</string>
+    <string name="skulderpress">Skulderpress</string>
+    <string name="skulderpress_discription">Kjør gitt antall sett med 12 repetisjoner. Lette vekter.</string>
+    <string name="nedtrekk">Nedtrekk, rygg</string>
+    <string name="nedtrekk_discription">Kjør gitt antall sett med 12 repetisjoner. Øvelsen utføres ved å sitte på en maskin.</string>
+    <string name="biceps">"Biceps curl</string>
+    <string name="biceps_discription">Kjør gitt antall sett med 10 repetisjoner. Lås overarm under bicepscurl.</string>
+    <string name="jumping_jacks">Jumping jacks</string>
+    <string name="jumping_jacks_discription">Gjenta øvelsen så raskt du klarer i 25 sekunder og kjør gjerne 4 runder.</string>
+    <string name="burpees">Burpees</string>
+    <string name="burpees_discription">Gjenta øvelsen 8 ganger i høyt tempo. Kjør gjerne 4 runder.</string>
+    <string name="kneløft">Høye kneløft</string>
+    <string name="kneløft_discription">Fortsett øvelsen i 25 sekunder og kjør gjerne flere runder.</string>
+    <string name="intervalltrening">Intervalltrening</string>
+    <string name="intervalltrening_discription">Gjenta øvelsen opptil 10 ganger. Øk gjerne antallet etter hvert som kondisjonen økes.</string>
+    <string name="video"><u>Video</u></string>
+</resources>
